@@ -35,3 +35,4 @@ Here you'll find community contributions to the Gotify project.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
 - [StewartThomson/Gotify-Ext](https://github.com/StewartThomson/Gotify-Ext) A Browser extension for viewing and managing gotify servers
 - [ztpnk/gotify-dunst](https://github.com/ztpnk/gotify-dunst) A gotify client for your Linux Desktop 
+- [www-glasswall-nl/gotify-PHP-webclient](https://github.com/www-glasswall-nl/gotify-PHP-webclient) A PHP gotify webclient
